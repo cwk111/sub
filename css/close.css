@@ -1,0 +1,92 @@
+
+@import "magiczoomplus.css";
+@import "jquery.jcarousel.css";
+body{background:#fff; font-size:12px; font-family:"瀹嬩綋",Verdana, Arial; 
+line-height:150%; margin:0; padding:0; color:#222;
+background:url(images/bodyBg.gif) repeat-x 0 0; min-width:980px;
+}
+div{margin:0 auto; padding:0;
+}
+h1,h2,h3,h4,h5,h6,ul,li,dl,dt,dd,form,img,p{
+margin:0; padding:0; border:none; list-style-type:none;
+}
+h1,h2,h3,h4,h5,h6{font-size:12px;}
+.block{
+  width:980px; height:auto; background-color:#FFF;padding-top:10px; padding-bottom:8px
+}
+.f_l{float:left; position:relative; left:60px}
+.f_r{float:right;}
+.tl{ text-align:left;}
+.tc{ text-align:center;}
+.tr{ text-align:right;}
+.dis{display:block;}
+.inline{display:inline;}
+.none{display:none;}
+.flash{margin-bottom:6px;}
+
+.clearfix:after{
+content:"."; display:block; height:0; clear:both;
+visibility:hidden;
+}
+*html .clearfix{
+ height:1%;
+}
+*+html .clearfix{
+ height:1%;
+}
+
+.word{word-break:break-all;}
+
+a:link {color: #222; text-decoration:none;}
+a:visited {color: #222;text-decoration:none;}
+a:hover {color: #ff0000; text-decoration:none;}
+a:active {color: #222; text-decoration:none;}
+
+
+.f1{color:#cc0000;}
+.f2{color:#ff0000; font-weight:bold;}
+.f3{ font-size:14px; color:#005aa0;}
+.f4{font-size:16px; font-weight:bold; color:#005aa0;}
+.f5{color:#999999;}
+.sz14 {font-size:14px;}
+.sz16 {font-size:16px;}
+.sz20 {font-size:20px;}
+.price{color:#cc0000; font-weight:bold;}
+.market_price{color:#757575; font-weight:bold; text-decoration:line-through;}
+
+
+.InputBorder{
+border:1px solid #1c618e;
+background:#fff; height:17px;
+}
+.formBorder{
+    border:1px solid #468ebe;
+
+}
+
+.flowBox{
+    border-left:3px solid #aacded;
+     border-right:3px solid #aacded;
+      padding:18px; width:948px
+    }
+.flowTit{height:28px; line-height:28px;
+     text-align:right; padding:0 10px;
+      background:url(images/bg_flow.gif) no-repeat left top;
+font-size:14px; font-weight:100; background-position:center;
+}
+.flowBox tr{
+    height: 30px;
+}
+.flowBox tr td{
+    padding-left: 20px;
+}
+.flowTit a{color:#050ed0;
+     text-decoration:underline; background:url(images/bg_flies.gif) no-repeat; 
+     background-position:left;
+      padding-left:16px; font-size:12px;
+}
+.flowTit span{float:left; font-weight:bold; color:#444;}
+.flowBottom{background:url(images/bg_flow_1.gif) no-repeat left bottom;
+     height:20px; line-height:6px; font-size:0px; overflow:hidden;
+margin-bottom:8px; background-position:center;
+}

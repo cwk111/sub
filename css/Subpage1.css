@@ -1,0 +1,45 @@
+#op {
+  width: 1210px;
+  height: 35px;
+  background: url(../images/bai.png) repeat;
+  margin: auto; }
+
+#op ul li {
+  float: left;
+  margin-top: 10px;
+  margin-left: 7px; }
+
+#op-2-1 {
+  width: 945px;
+  float: left;
+  height: 850px;
+  border: 1px solid #C7C7C7;
+  overflow: hidden;
+  margin-top: 10px;
+  margin-left: 10px;
+  background: #F7F7F7; }
+  #op-2-1 h2 {
+    margin-left: 330px;
+    margin-top: 40px;
+    font-size: 25px; }
+
+#op-2-2 {
+  width: 855px;
+  height: 850px;
+  border: 1px solid #EEEEEE;
+  margin: auto;
+  background: #FFFFFF; }
+  #op-2-2 ul {
+    width: 855px;
+    height: 40px;
+    border-bottom: 1px solid #EEEEEE; }
+    #op-2-2 ul p {
+      float: left;
+      margin-left: 50px;
+      display: block;
+      margin-top: 15px; }
+
+#xiao {
+  padding: 0 50px; }
+
+/*# sourceMappingURL=Subpage1.css.map */

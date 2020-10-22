@@ -1,0 +1,128 @@
+#daa {
+  width: 1200px;
+  height: 2000px;
+  background: #FFFFFF;
+  margin: auto;
+  overflow: hidden; }
+
+#x-top {
+  width: 1200px;
+  height: 35px;
+  background: url(../images/bai.png) repeat; }
+  #x-top li {
+    float: left;
+    font-size: 15px;
+    margin-left: 8px;
+    margin-top: 6px; }
+
+#x-1 {
+  width: 220px;
+  height: 1252px;
+  margin-left: 10px;
+  float: left; }
+
+#fenlei ul {
+  margin-top: 6px;
+  width: 220px;
+  overflow: hidden;
+  border: 1px solid #C2C2C2;
+  background: #F3F3F3; }
+  #fenlei ul li {
+    width: 220px;
+    height: 35px;
+    border-bottom: 1px solid #C2C2C2;
+    line-height: 35px; }
+    #fenlei ul li a {
+      display: block;
+      font-weight: 900;
+      font-size: 15px;
+      margin-left: 10px; }
+      #fenlei ul li a button {
+        margin-right: 10px; }
+
+#jp {
+  width: 200px;
+  margin-top: 40px;
+  margin-left: 10px;
+  height: 200px;
+  border: 1px solid #C2C2C2;
+  text-align: center; }
+  #jp a {
+    width: 150px;
+    height: 50px;
+    overflow: hidden;
+    display: block;
+    margin-left: 20px; }
+  #jp img {
+    width: 110px;
+    height: 110px;
+    margin-left: 40px; }
+
+#x-2 {
+  width: 955px;
+  height: 1270px;
+  float: left;
+  margin-left: 10px;
+  overflow: hidden; }
+
+#x-2-1 {
+  width: 930px;
+  height: 30px;
+  border: 1px solid #C2C2C2;
+  margin-top: 10px;
+  padding-left: 20px;
+  padding-top: 5px;
+  overflow: hidden; }
+
+#x-2-2 {
+  width: 910px;
+  height: 60px;
+  border: 1px solid #C2C2C2;
+  padding: 0 20px;
+  border-bottom: none;
+  margin-top: 10px; }
+
+#x-2-2 ul {
+  height: 30px;
+  border-bottom: 1px solid #C2C2C2; }
+  #x-2-2 ul li {
+    float: left;
+    margin-left: 10px;
+    line-height: 30px; }
+
+#x-2-2 ul li a:hover {
+  color: #B82803; }
+
+#x-2-3 ul li {
+  width: 225px;
+  height: 310px;
+  border: 1px solid #C2C2C2;
+  text-align: center;
+  margin: 5px;
+  float: left;
+  overflow: hidden; }
+  #x-2-3 ul li img {
+    width: 170px;
+    height: 170px;
+    margin-left: 30px; }
+  #x-2-3 ul li a {
+    display: block;
+    width: 220px;
+    height: 40px;
+    display: block;
+    overflow: hidden; }
+
+#x-2-3 ul li button {
+  margin-top: 10px;
+  margin-left: 10px; }
+
+#x-2-3 {
+  width: 950px;
+  height: 1000px;
+  overflow: hidden; }
+
+#x-2-3 a:hover {
+  color: #B82209;
+  text-decoration: underline; }
+
+/*# sourceMappingURL=list1.css.map */

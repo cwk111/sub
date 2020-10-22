@@ -1,0 +1,78 @@
+#Shopping-1 {
+  width: 1000px;
+  height: 35px;
+  background: url(../images/bai.png); }
+  #Shopping-1 li {
+    float: left;
+    margin-left: 5px;
+    line-height: 35px; }
+
+#Shopping {
+  width: 1000px;
+  height: 100%;
+  overflow: hidden;
+  background: #FFFFFF;
+  margin: auto; }
+
+#Shopping-2 {
+  width: 985px;
+  border: 2px solid #007AFF;
+  margin: auto; }
+  #Shopping-2 h2 {
+    width: 985px;
+    height: 30px;
+    background: #007AFF;
+    margin: auto; }
+
+#l {
+  width: 940px;
+  height: 30px;
+  border-bottom: 2px solid #D9D9D9; }
+  #l p {
+    float: left; }
+
+#list tr {
+  height: 60px;
+  width: 900px; }
+
+#dian a {
+  float: left;
+  margin-left: 300px;
+  display: block;
+  margin-top: 20px;
+  width: 150px;
+  height: 38px;
+  background: #FFFFFF; }
+
+#tj {
+  width: 950px;
+  height: 380px;
+  border: 1px solid #D3D4D3;
+  margin: auto;
+  margin-top: 100px;
+  background: #E9E7E7; }
+
+#tj ul li {
+  width: 150px;
+  float: left;
+  height: 180px;
+  border: 1px solid #D0D0D0;
+  background: #FFFFFF;
+  text-align: center;
+  margin: 3px; }
+  #tj ul li img {
+    margin-left: 20px; }
+  #tj ul li a {
+    margin: 10px 0;
+    display: block; }
+
+#tj ul li a:hover {
+  color: #B82803; }
+
+#tj ul li a {
+  width: 140px;
+  height: 35px;
+  display: block;
+  overflow: hidden; }
+
+/*# sourceMappingURL=Shopping.css.map */

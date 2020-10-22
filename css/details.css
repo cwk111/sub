@@ -1,0 +1,157 @@
+#details {
+  height: 1550px;
+  background: #FFFFFF;
+  padding: 0 20px;
+  overflow: hidden; 
+  margin-left: 50px;
+}
+
+#details-1 {
+  margin-left: -20px;
+  height: 35px;
+  line-height: 35px;
+  background: url(../images/bai.png) repeat; }
+  #details-1 li {
+    float: left;
+    margin-left: 10px; }
+
+#details-2 {
+  border-bottom: 1px solid #C7C7C7;
+  height: 70px; }
+  #details-2 p:nth-child(1) {
+    margin-top: 20px;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 900; }
+  #details-2 P:nth-child(2) {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #B82803; }
+
+#details-3 {
+  width: 390px;
+  height: 440px;
+  margin-top: 20px;
+  float: left; }
+  #details-3 img {
+    border: 1px solid #F3F3F3; }
+
+#xx img {
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin: 6px 6px; }
+
+#details-4 {
+  margin-left: 5px;
+  width: 720px;
+  height: 485px;
+  border: 1px solid #EEEEEE;
+  float: right;
+  margin-top: 20px;
+  padding: 20px; }
+  #details-4 p {
+    height: 35px;
+    line-height: 30px;
+    font-size: 14px; }
+  #details-4 div {
+    height: 30px;
+    line-height: 30px; }
+
+#taochan p {
+  float: left; }
+#taochan a {
+  float: left;
+  width: 60px;
+  height: 28px;
+  display: block;
+  margin-left: 7px;
+  border: 2px solid #EEEEEE;
+  text-align: center; }
+
+#taochan a:hover {
+  border: 2px solid #BD2313; }
+
+#gou {
+  width: 420px;
+  margin-top: 55px;
+  padding-left: 300px;
+  border-top: 1px solid #C7C7C7; }
+  #gou a {
+    margin-top: 15px;
+    border-radius: 10px;
+    font-size: 17px;
+    color: #FFFFFF;
+    width: 155px;
+    height: 40px;
+    text-align: center;
+    display: block;
+    float: left; }
+
+#gou a:nth-child(1) {
+  background: #BD2C00;
+  margin-right: 50px; }
+
+#gou a:nth-child(2) {
+  background: #0086B3; }
+
+#miao {
+  width: 1200px;
+  height: 1500px;
+  overflow: hidden; }
+  #miao div {
+    width: 930px;
+    background: url(../images/bai.png) repeat;
+    height: 35px;
+    overflow: hidden; }
+    #miao div h3 {
+      width: 175px;
+      background: url(../images/bztj.png) no-repeat 1px -48px;
+      padding-left: 58px;
+      padding-top: 10px; }
+
+#miao img {
+  margin-left: 150px;
+  width: 500px;
+  height: 420px; }
+
+.imgbox {
+  position: relative; }
+
+.probox {
+  width: 390px;
+  height: 400px; }
+
+.probox img {
+  width: 390px;
+  height: 400px;
+  vertical-align: top; }
+
+.showbox {
+  display: none;
+  position: absolute;
+  left: 403px;
+  top: 0;
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background: #FFFFFF; }
+
+.showbox img {
+  position: absolute;
+  height: 1200px;
+  width: 1200px; }
+
+.hoverbox {
+  display: none;
+  position: absolute;
+  top: 0;
+  background: #09f;
+  border: 1px solid #09f;
+  height: 140px;
+  width: 130px;
+  cursor: move;
+  z-index: 10; }
+
+/*# sourceMappingURL=details.css.map */
